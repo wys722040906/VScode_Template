@@ -1,2 +1,12 @@
 # VScode_Template
-vscode模板
+# Windows
+
+- ##### w_C++--C++环境配置
+
+
+
+
+
+
+
+# Ubuntu
