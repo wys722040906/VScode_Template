@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wys/Desktop/u_cmake_C++/build",
+  "command": "/usr/bin/c++  -I/home/wys/Desktop/u_cmake_C++/include -g -std=gnu++11 -o CMakeFiles/MyProject.dir/src/foo.cpp.o -c /home/wys/Desktop/u_cmake_C++/src/foo.cpp",
+  "file": "/home/wys/Desktop/u_cmake_C++/src/foo.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/u_cmake_C++/build",
+  "command": "/usr/bin/c++  -I/home/wys/Desktop/u_cmake_C++/include -g -std=gnu++11 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/wys/Desktop/u_cmake_C++/src/main.cpp",
+  "file": "/home/wys/Desktop/u_cmake_C++/src/main.cpp"
+}
+]

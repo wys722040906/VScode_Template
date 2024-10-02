@@ -1,0 +1,5 @@
+不执行程序情况下进行代码检查
+默认clang
+
+sudo apt install clang
+sudo apt install clang-tools
