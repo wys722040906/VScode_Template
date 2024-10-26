@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/src/main.cpp.o -o app  -Wl,-rpath,/home/wys/Desktop/VScode_Template/c_template/ws/build/sharedLib ../staticLib/libstaticLib.a ../sharedLib/libsharedLib.so 

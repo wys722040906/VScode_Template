@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wys/Desktop/VScode_Template/c_template/ws/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/VScode_Template/c_template/ws/staticLib/include -g -o staticLib/CMakeFiles/staticLib.dir/src/sub.cpp.o -c /home/wys/Desktop/VScode_Template/c_template/ws/staticLib/src/sub.cpp",
+  "file": "/home/wys/Desktop/VScode_Template/c_template/ws/staticLib/src/sub.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/VScode_Template/c_template/ws/build",
+  "command": "/usr/bin/clang++ -DsharedLib_EXPORTS -I/home/wys/Desktop/VScode_Template/c_template/ws/sharedLib/include -g -fPIC -o sharedLib/CMakeFiles/sharedLib.dir/src/add.cpp.o -c /home/wys/Desktop/VScode_Template/c_template/ws/sharedLib/src/add.cpp",
+  "file": "/home/wys/Desktop/VScode_Template/c_template/ws/sharedLib/src/add.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/VScode_Template/c_template/ws/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/VScode_Template/c_template/ws/app/include -I/home/wys/Desktop/VScode_Template/c_template/ws/staticLib/include -I/home/wys/Desktop/VScode_Template/c_template/ws/sharedLib/include -g -std=gnu++11 -o app/CMakeFiles/app.dir/src/main.cpp.o -c /home/wys/Desktop/VScode_Template/c_template/ws/app/src/main.cpp",
+  "file": "/home/wys/Desktop/VScode_Template/c_template/ws/app/src/main.cpp"
+}
+]

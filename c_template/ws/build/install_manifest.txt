@@ -1,0 +1,8 @@
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/libstaticLib.a
+/home/wys/Desktop/VScode_Template/c_template/ws/install/include/staticLib/sub.h
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/cmake/staticLib/staticLibConfig.cmake
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/cmake/staticLib/staticLibConfig-noconfig.cmake
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/libsharedLib.so
+/home/wys/Desktop/VScode_Template/c_template/ws/install/include/sharedLib/add.h
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/cmake/sharedLib/sharedLibConfig.cmake
+/home/wys/Desktop/VScode_Template/c_template/ws/install/lib/cmake/sharedLib/sharedLibConfig-noconfig.cmake

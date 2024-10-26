@@ -2,7 +2,7 @@
 ./c_C++/build/
 ./c_opencv/build/
 ./c_template/ws/build/
-./c_template/install/
+./c_template/ws/install/
 ./win_C++/test.exe
 #放弃跟踪--前提：先把远程文件删除了--不能实现覆盖
 #git rm -r --cached ./c_C++/build/ ./c_opencv/build/ ./c_template/ws/build/ ./c_template/#install/ 
