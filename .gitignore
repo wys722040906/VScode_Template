@@ -1,0 +1,7 @@
+#编译文件
+./c_C++/build/
+./c_opencv/build/
+./c_template/ws/build/
+./c_template/install/
+./win_C++/test.exe
+
