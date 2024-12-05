@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wys/Desktop/VScode_Template/c_C++/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/VScode_Template/c_C++/include -g -std=gnu++20 -o CMakeFiles/MyProject.dir/src/foo.cpp.o -c /home/wys/Desktop/VScode_Template/c_C++/src/foo.cpp",
+  "file": "/home/wys/Desktop/VScode_Template/c_C++/src/foo.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/VScode_Template/c_C++/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/VScode_Template/c_C++/include -g -std=gnu++20 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/wys/Desktop/VScode_Template/c_C++/src/main.cpp",
+  "file": "/home/wys/Desktop/VScode_Template/c_C++/src/main.cpp"
+}
+]
