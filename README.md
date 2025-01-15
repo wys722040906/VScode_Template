@@ -13,3 +13,8 @@
 - [**c_C++--C++模板**](https://github.com/wys722040906/VScode_Template/tree/main/c_C%2B%2B)
 - [**c_opencv--opencv模板**](https://github.com/wys722040906/VScode_Template/tree/main/c_opencv)
 
+
+
+# platformio
+
+- vscode + IDE

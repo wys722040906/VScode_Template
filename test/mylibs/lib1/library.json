@@ -1,0 +1,21 @@
+{
+    "name":"MyLibrary",
+    "version":"1.0.0",
+    "description":"This is a sample library for demonstration purposes.",
+    "keywords":["sample", "library", "platformio"],
+    "authors":{
+        "name":"Your Name",
+        "email":"your.email@example.com"
+    },
+
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/yourusername/your-library-repo.git"
+    },
+    "frameworks":["arduino", "stm32cube"],
+    "platforms":["atmelavr", "ststm32", "espressif8266"],
+    "dependencies":{
+        "ArduinoJson":"^6.0.0",
+        "file://libs/MyCustomDependency":"^1.0.0"  
+    }
+}
